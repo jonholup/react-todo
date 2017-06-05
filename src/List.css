@@ -1,0 +1,14 @@
+.list {
+
+}
+
+.list table {
+  border-width: thick;
+  border-color: red;
+  width: 100%;
+  padding: 20px;
+}
+
+.list .taskData {
+
+}
